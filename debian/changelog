@@ -1,0 +1,8 @@
+ros-noetic-moveit-task-constructor-visualization (0.1.0-1buster) buster; urgency=high
+
+  * Initial release
+  * Contributors: Robert Haschke, Michael Görner
+
+ -- Robert Haschke <rhaschke@techfak.uni-bielefeld.de>  Wed, 01 Feb 2023 23:00:00 -0000
+
+
