@@ -1,0 +1,8 @@
+ros-noetic-moveit-task-constructor-core (0.1.0-1buster) buster; urgency=high
+
+  * Initial release
+  * Contributors: Michael Görner, Robert Haschke, Captain Yoshi, Christian Petersmeier, Henning Kayser, Jafar Abdi, Tyler Weaver
+
+ -- Michael Goerner <me@v4hn.de>  Wed, 01 Feb 2023 23:00:00 -0000
+
+
