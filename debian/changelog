@@ -1,0 +1,8 @@
+ros-noetic-moveit-task-constructor-demo (0.1.0-1focal) focal; urgency=high
+
+  * Initial release
+  * Contributors: Michael Görner, Robert Haschke
+
+ -- Henning Kayser <henningkayser@picknik.ai>  Wed, 01 Feb 2023 23:00:00 -0000
+
+
