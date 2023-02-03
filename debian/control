@@ -1,0 +1,12 @@
+Source: ros-noetic-moveit-task-constructor-demo
+Section: misc
+Priority: optional
+Maintainer: Robert Haschke <rhaschke@techfak.uni-bielefeld.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-moveit-core, ros-noetic-moveit-ros-planning-interface, ros-noetic-moveit-task-constructor-core, ros-noetic-roscpp, ros-noetic-rosparam-shortcuts, ros-noetic-rostest <!nocheck>
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-moveit-task-constructor-demo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-moveit-core, ros-noetic-moveit-resources-panda-moveit-config, ros-noetic-moveit-ros-planning-interface, ros-noetic-moveit-task-constructor-capabilities, ros-noetic-moveit-task-constructor-core, ros-noetic-roscpp, ros-noetic-rosparam-shortcuts
+Description: demo tasks illustrating various capabilities of MTC.
