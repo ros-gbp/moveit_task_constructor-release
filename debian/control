@@ -1,0 +1,12 @@
+Source: ros-noetic-moveit-task-constructor-capabilities
+Section: misc
+Priority: optional
+Maintainer: Michael v4hn Goerner <me@v4hn.de>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-actionlib, ros-noetic-catkin, ros-noetic-moveit-core, ros-noetic-moveit-ros-move-group, ros-noetic-moveit-task-constructor-core, ros-noetic-moveit-task-constructor-msgs, ros-noetic-pluginlib, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-moveit-task-constructor-capabilities
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-actionlib, ros-noetic-moveit-core, ros-noetic-moveit-ros-move-group, ros-noetic-moveit-task-constructor-core, ros-noetic-moveit-task-constructor-msgs, ros-noetic-pluginlib, ros-noetic-std-msgs
+Description: MoveGroupCapabilites to interact with MoveIt
