@@ -1,0 +1,12 @@
+Source: ros-noetic-moveit-task-constructor-core
+Section: misc
+Priority: optional
+Maintainer: Michael Goerner <me@v4hn.de>
+Build-Depends: debhelper (>= 9.0.0), python3-setuptools, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-moveit-commander <!nocheck>, ros-noetic-moveit-core, ros-noetic-moveit-planners <!nocheck>, ros-noetic-moveit-resources-fanuc-moveit-config <!nocheck>, ros-noetic-moveit-ros-planning, ros-noetic-moveit-ros-planning-interface, ros-noetic-moveit-task-constructor-msgs, ros-noetic-roscpp, ros-noetic-roslint, ros-noetic-rostest <!nocheck>, ros-noetic-rosunit <!nocheck>, ros-noetic-rviz-marker-tools, ros-noetic-tf2-eigen, ros-noetic-visualization-msgs
+Homepage: https://github.com/ros-planning/moveit_task_constructor
+Standards-Version: 3.9.2
+
+Package: ros-noetic-moveit-task-constructor-core
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-moveit-core, ros-noetic-moveit-ros-planning, ros-noetic-moveit-ros-planning-interface, ros-noetic-moveit-task-constructor-msgs, ros-noetic-roscpp, ros-noetic-rviz-marker-tools, ros-noetic-tf2-eigen, ros-noetic-visualization-msgs
+Description: MoveIt Task Pipeline
