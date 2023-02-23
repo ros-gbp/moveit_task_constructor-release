@@ -1,0 +1,20 @@
+ros-noetic-moveit-task-constructor-capabilities (0.1.2-1focal) focal; urgency=high
+
+
+
+ -- Michael v4hn Goerner <me@v4hn.de>  Thu, 23 Feb 2023 23:00:00 -0000
+
+ros-noetic-moveit-task-constructor-capabilities (0.1.1-1focal) focal; urgency=high
+
+
+
+ -- Michael v4hn Goerner <me@v4hn.de>  Tue, 14 Feb 2023 23:00:00 -0000
+
+ros-noetic-moveit-task-constructor-capabilities (0.1.0-1focal) focal; urgency=high
+
+  * Initial release
+  * Contributors: Michael Görner, Robert Haschke
+
+ -- Michael v4hn Goerner <me@v4hn.de>  Wed, 01 Feb 2023 23:00:00 -0000
+
+
