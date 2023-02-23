@@ -1,0 +1,21 @@
+ros-noetic-rviz-marker-tools (0.1.2-1focal) focal; urgency=high
+
+  * Fix marker creation: allow zero scale for geometric shapes (#430 <https://github.com/ros-planning/moveit_task_constructor/issues/430>)
+  * Contributors: Robert Haschke
+
+ -- Robert Haschke <rhaschke@techfak.uni-bielefeld.de>  Thu, 23 Feb 2023 23:00:00 -0000
+
+ros-noetic-rviz-marker-tools (0.1.1-1focal) focal; urgency=high
+
+
+
+ -- Robert Haschke <rhaschke@techfak.uni-bielefeld.de>  Tue, 14 Feb 2023 23:00:00 -0000
+
+ros-noetic-rviz-marker-tools (0.1.0-1focal) focal; urgency=high
+
+  * Initial release
+  * Contributors: Robert Haschke, Michael Görner
+
+ -- Robert Haschke <rhaschke@techfak.uni-bielefeld.de>  Wed, 01 Feb 2023 23:00:00 -0000
+
+
